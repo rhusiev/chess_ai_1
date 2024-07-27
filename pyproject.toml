@@ -1,0 +1,12 @@
+
+[project]
+name = ""
+version = ""
+description = ""
+dependencies = [
+    "chess>=1.9.4",
+    "pyyaml>=6.0",
+    "numpy>=1.24.3",
+]
+requires-python = ">=3.11"
+license = {text = "GPLv3"}
